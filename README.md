@@ -75,11 +75,10 @@ This project demonstrates how to use the YOLOv8 model for vehicle detection and 
 ## Demo
 Here is a quick demo of the car counting in action:
 
+![image](https://github.com/user-attachments/assets/72c3379d-9da5-4d8f-b775-6091d515e9aa)
+
 You can watch the demo video by clicking [here](project%20demo/mage%202025-01-03%2023-17-36.mp4).
 
 
 ## Conclusion
 This project demonstrates how you can use YOLO for high-speed object detection and combine it with tracking algorithms like SORT to track and count vehicles. This can be extended to various applications like traffic monitoring and management.
-
-## License
-This project is open-source, licensed under [Your License Name Here].
