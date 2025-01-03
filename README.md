@@ -77,8 +77,7 @@ Here is a quick demo of the car counting in action:
 
 ![image](https://github.com/user-attachments/assets/72c3379d-9da5-4d8f-b775-6091d515e9aa)
 
-You can watch the demo video by clicking [here](project%20demo/image%2025-01-03%23-17-36.mp4).
-
+You can watch the demo video by clicking [here](https://x.com/Mridulchdry/status/1875251955586756799).
 
 ## Conclusion
 This project demonstrates how you can use YOLO for high-speed object detection and combine it with tracking algorithms like SORT to track and count vehicles. This can be extended to various applications like traffic monitoring and management.
